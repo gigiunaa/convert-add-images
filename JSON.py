@@ -160,27 +160,31 @@ def html_string_to_ricos(html_string: str, base_url=None, image_url_map=None, im
 
 # ========= Flask endpoint =========
 
-@app.route("/convert-html", methods=["POST"])
-def convert_html():
+@app.route("/convert-files", methods=["POST"])
+def convert_files():
     try:
         payload = request.get_json(silent=True) or {}
-        html_string = payload.get("html")
-        base_url = payload.get("base_url")
-        image_url_map = payload.get("image_url_map") or {}
-        images_fifo = payload.get("images") or None
+        files = payload.get("files", [])
 
-        if not html_string:
-            return jsonify({"error": "Missing 'html' field"}), 400
+        if not files:
+            return jsonify({"error": "Missing 'files' array"}), 400
 
-        result = html_string_to_ricos(
-            str(html_string),
-            base_url=base_url,
-            image_url_map=image_url_map,
-            images_fifo=list(images_fifo) if images_fifo else None
-        )
-        return jsonify(result)
+        results = []
+        for f in files:
+            filename = f.get("filename")
+            html_string = f.get("html")
+            if not html_string:
+                continue
+
+            ricos = html_string_to_ricos(html_string)
+            results.append({
+                "filename": filename,
+                "ricos": ricos
+            })
+
+        return jsonify({"results": results})
     except Exception as e:
-        logging.exception("Error in /convert-html")
+        logging.exception("Error in /convert-files")
         return jsonify({"error": str(e)}), 500
 
 if __name__ == "__main__":
