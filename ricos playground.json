@@ -1,0 +1,18 @@
+ {
+                    "type": "IMAGE",
+                    "id": "b1wh11264",
+                    "imageData": {
+                        "containerData": {
+                            "width": {
+                                "size": "CONTENT"
+                            },
+                            "alignment": "CENTER",
+                            "textWrap": true
+                        },
+                        "image": {
+                            "src": {
+                                "url": "https://pixeldrain.com/api/file/DTFQWQzw"
+                            }
+                        }
+                    }
+                }

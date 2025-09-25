@@ -1,0 +1,4635 @@
+{
+  "nodes": [
+    {
+      "type": "PARAGRAPH",
+      "id": "d4ee79c5",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "IMAGE",
+      "id": "246852d4",
+      "imageData": {
+        "containerData": {
+          "width": {
+            "size": "CONTENT"
+          },
+          "alignment": "CENTER",
+          "textWrap": true
+        },
+        "image": {
+          "src": {
+            "url": "https://pixeldrain.com/api/file/9YpdkEAA"
+          },
+          "metadata": {
+            "altText": ""
+          }
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "18be2751",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "ad05e277",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "f550232a",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Georgia isn’t guessing. It’s winning.",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              },
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {},
+      "headingData": {
+        "level": 2,
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "12351ee3",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "dead80e5",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Most countries make it painful to start a business. Georgia went the other way. It cut the red tape, simplified tax, and made it easy for international founders to build without roadblocks.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "482fa8cd",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "68c6bcb6",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Whether you're a freelancer, a startup, or a growing dev team, Georgia gives you multiple ways to legally reduce your taxes. And not just by a little. By a lot.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "06b2532c",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "cb0845c7",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Here’s what you can access:",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "78a030bb",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "BULLETED_LIST",
+      "id": "25f791fc",
+      "nodes": [
+        {
+          "type": "LIST_ITEM",
+          "id": "9f5cb23a",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "980c9d72",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "textData": {
+                    "text": "1% tax on revenue if you're a solo business with Small Business Status",
+                    "decorations": [
+                      {
+                        "type": "COLOR",
+                        "colorData": {
+                          "background": "transparent",
+                          "foreground": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "style": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "4e24fe3e",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "7ce66e05",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "textData": {
+                    "text": "5% tax on distributed profits if you qualify as an International Company",
+                    "decorations": [
+                      {
+                        "type": "COLOR",
+                        "colorData": {
+                          "background": "transparent",
+                          "foreground": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "style": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "7cf2982f",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "762de135",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "textData": {
+                    "text": "0% corporate tax if you hold Virtual Zone Status and serve foreign clients",
+                    "decorations": [
+                      {
+                        "type": "COLOR",
+                        "colorData": {
+                          "background": "transparent",
+                          "foreground": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "style": {}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "311dd829",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "0f5cf894",
+      "nodes": [
+        {
+          "type": "IMAGE",
+          "id": "d13926d6",
+          "imageData": {
+            "containerData": {
+              "width": {
+                "size": "CONTENT"
+              },
+              "alignment": "CENTER",
+              "textWrap": true
+            },
+            "image": {
+              "src": {
+                "url": "https://pixeldrain.com/api/file/225X5NW5"
+              },
+              "metadata": {
+                "altText": ""
+              }
+            }
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "47d45d90",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "198ea1af",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Each has a purpose. Each comes with rules. And none of them work well if you try to DIY it with Google Translate and guesswork. If you want the benefits, you need the right setup from day one.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "1be6d819",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "4efa7a02",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Gegidze works with founders every week who thought they could figure it out on their own. Then came the penalties, compliance notices, and bank rejections. Legal structures in Georgia are business-friendly, but they’re also strict.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "bbf10688",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "817459a6",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "a78bc1fb",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Let’s start with the 1% tax setup",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              },
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {},
+      "headingData": {
+        "level": 2,
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "524555a9",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "4ddb5fdb",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "This one’s built for Individual Entrepreneurs, also known as I.E. in Georgia. It’s the fastest, simplest way to start working legally and lower your tax to 1% on turnover.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "68dabfe3",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "52fe5d43",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "How it works:",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "a0795761",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "BULLETED_LIST",
+      "id": "a39e472f",
+      "nodes": [
+        {
+          "type": "LIST_ITEM",
+          "id": "e92393b9",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "c3fcb193",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "textData": {
+                    "text": "You register as an Individual Entrepreneur",
+                    "decorations": [
+                      {
+                        "type": "COLOR",
+                        "colorData": {
+                          "background": "transparent",
+                          "foreground": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "style": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "81e5ffb2",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "df985a88",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "textData": {
+                    "text": "You apply for Small Business Status through the Revenue Service",
+                    "decorations": [
+                      {
+                        "type": "COLOR",
+                        "colorData": {
+                          "background": "transparent",
+                          "foreground": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "style": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "52c19ba1",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "e272cb5d",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "textData": {
+                    "text": "You pay 1% tax on gross income up to 500,000 GEL annually",
+                    "decorations": [
+                      {
+                        "type": "COLOR",
+                        "colorData": {
+                          "background": "transparent",
+                          "foreground": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "style": {}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "31b85338",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "caf148b4",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "That’s it. You don’t need to declare expenses. You don’t pay corporate tax. You don’t pay dividend tax. If you made 180,000 GEL last year, you owe 1,800 GEL. Simple.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "85279331",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "040da40c",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "It’s why digital nomads, solo developers, content writers, and remote marketers are moving their taxes to Georgia. The 1% regime lets them bill international clients, stay compliant, and keep more of what they earn.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "3476927e",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "b57d538d",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "216f06c8",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Who qualifies?",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              },
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {},
+      "headingData": {
+        "level": 2,
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "6e9b4f5d",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "1224186d",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "You do, if:",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "6590e338",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "BULLETED_LIST",
+      "id": "2f3c2d68",
+      "nodes": [
+        {
+          "type": "LIST_ITEM",
+          "id": "fd5dbfc2",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "ff2eeb63",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "textData": {
+                    "text": "You work alone",
+                    "decorations": [
+                      {
+                        "type": "COLOR",
+                        "colorData": {
+                          "background": "transparent",
+                          "foreground": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "style": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "09ad98ec",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "34138ada",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "textData": {
+                    "text": "You don’t employ full-time staff",
+                    "decorations": [
+                      {
+                        "type": "COLOR",
+                        "colorData": {
+                          "background": "transparent",
+                          "foreground": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "style": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "04ee4848",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "0516210a",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "textData": {
+                    "text": "Your revenue is under 500,000 GEL",
+                    "decorations": [
+                      {
+                        "type": "COLOR",
+                        "colorData": {
+                          "background": "transparent",
+                          "foreground": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "style": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "3e0557c9",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "117bf2a2",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "textData": {
+                    "text": "You export services (no local sales)",
+                    "decorations": [
+                      {
+                        "type": "COLOR",
+                        "colorData": {
+                          "background": "transparent",
+                          "foreground": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "style": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "cac009a5",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "f2ee9c2b",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "textData": {
+                    "text": "Your business activity is allowed under Small Business Status rules",
+                    "decorations": [
+                      {
+                        "type": "COLOR",
+                        "colorData": {
+                          "background": "transparent",
+                          "foreground": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "style": {}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "3e43c654",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "687e24e9",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "You don’t have to live in Georgia full-time. But if you spend more than 183 days here, you can also become a tax resident of Georgia, which means you're protected by Georgia’s double tax treaties. That helps you avoid paying tax twice on the same income in two different countries.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "936805d8",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "e124a7a0",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Gegidze often helps people clarify this. For example, someone moves to Tbilisi, sets up their I.E., but forgets they triggered tax residency halfway through the year. That mistake can create issues with their home country’s tax authority. Knowing when residency starts and how to plan for it isn’t optional. It’s essential.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "d4047b9f",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "bf09f8a2",
+      "nodes": [
+        {
+          "type": "IMAGE",
+          "id": "fd3d8cc4",
+          "imageData": {
+            "containerData": {
+              "width": {
+                "size": "CONTENT"
+              },
+              "alignment": "CENTER",
+              "textWrap": true
+            },
+            "image": {
+              "src": {
+                "url": "https://pixeldrain.com/api/file/bRvAUQRq"
+              },
+              "metadata": {
+                "altText": ""
+              }
+            }
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "dc240141",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "ffe964e0",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "69631c3a",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "How to register as an I.E.",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              },
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {},
+      "headingData": {
+        "level": 2,
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "1250ead2",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "f93846bc",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Here’s what the registration process looks like:",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "b8667770",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "ORDERED_LIST",
+      "id": "b8cc85af",
+      "nodes": [
+        {
+          "type": "LIST_ITEM",
+          "id": "09be2743",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "59233349",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "textData": {
+                    "text": "Reserve your business name (optional but recommended)",
+                    "decorations": [
+                      {
+                        "type": "COLOR",
+                        "colorData": {
+                          "background": "transparent",
+                          "foreground": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "style": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "a26b79cc",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "50dcfc2d",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "textData": {
+                    "text": "Register at the Public Registry as an Individual Entrepreneur",
+                    "decorations": [
+                      {
+                        "type": "COLOR",
+                        "colorData": {
+                          "background": "transparent",
+                          "foreground": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "style": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "10dcd066",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "008ac32f",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "textData": {
+                    "text": "Apply for Small Business Status through the Revenue Service portal",
+                    "decorations": [
+                      {
+                        "type": "COLOR",
+                        "colorData": {
+                          "background": "transparent",
+                          "foreground": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "style": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "def8aa82",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "9e6d57ee",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "textData": {
+                    "text": "Get your Tax Identification Number (TIN)",
+                    "decorations": [
+                      {
+                        "type": "COLOR",
+                        "colorData": {
+                          "background": "transparent",
+                          "foreground": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "style": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "37864ada",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "5e058dd7",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "textData": {
+                    "text": "Open a bank account in Georgia (a business account, not personal)",
+                    "decorations": [
+                      {
+                        "type": "COLOR",
+                        "colorData": {
+                          "background": "transparent",
+                          "foreground": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "style": {}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "fa55a347",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "2450de75",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "You don’t need to be in Georgia to do this. Many of Gegidze’s clients register remotely using a power of attorney. But you do need someone who understands how to navigate Georgia’s public systems, which are not always in English. Documents often require Georgian-language submissions. And registering incorrectly can cost you weeks, or worse, your Small Business Status.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "3e4c7ab1",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "36f3ad47",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Having a professional help you open a business bank account in Georgia also matters. Some banks require in-person meetings. Some reject foreigners without warning. Others ask for additional documents that weren’t listed on their site. Professional support makes the difference between a same-day account and a three-week delay.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "5ed6c3c9",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "793a382a",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "7bd66113",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "What about taxes after registration?",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              },
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {},
+      "headingData": {
+        "level": 2,
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "87366a62",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "a1c3287b",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "If you're on the 1% regime, your reporting is simple:",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "bb881ad2",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "BULLETED_LIST",
+      "id": "e75b5ecc",
+      "nodes": [
+        {
+          "type": "LIST_ITEM",
+          "id": "d27b6498",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "4089afed",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "textData": {
+                    "text": "File your income once a month",
+                    "decorations": [
+                      {
+                        "type": "COLOR",
+                        "colorData": {
+                          "background": "transparent",
+                          "foreground": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "style": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "0cdb7e56",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "5f9f2843",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "textData": {
+                    "text": "Pay 1% of your declared turnover",
+                    "decorations": [
+                      {
+                        "type": "COLOR",
+                        "colorData": {
+                          "background": "transparent",
+                          "foreground": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "style": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "5d283557",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "6fc8bae1",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "textData": {
+                    "text": "Submit annual declarations by March 31st",
+                    "decorations": [
+                      {
+                        "type": "COLOR",
+                        "colorData": {
+                          "background": "transparent",
+                          "foreground": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "style": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "e8879d74",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "844658a1",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "textData": {
+                    "text": "If you cross 100,000 GEL in revenue, register for VAT",
+                    "decorations": [
+                      {
+                        "type": "COLOR",
+                        "colorData": {
+                          "background": "transparent",
+                          "foreground": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "style": {}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "df4f371d",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "90a70d9c",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "And if you cross 500,000 GEL? Your tax rate jumps to 3%, and you might lose Small Business Status entirely. At that point, most people transition to an LLC. That’s where the 5% profit tax comes in.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "a6d470af",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "344474a1",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "7d912f83",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "When 1% Isn’t Enough",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              },
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {},
+      "headingData": {
+        "level": 2,
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "06dd97c1",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "2cef479c",
+      "nodes": [
+        {
+          "type": "IMAGE",
+          "id": "59184838",
+          "imageData": {
+            "containerData": {
+              "width": {
+                "size": "CONTENT"
+              },
+              "alignment": "CENTER",
+              "textWrap": true
+            },
+            "image": {
+              "src": {
+                "url": "https://pixeldrain.com/api/file/vgignRC8"
+              },
+              "metadata": {
+                "altText": ""
+              }
+            }
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "af3018b5",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "951bd147",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Let’s say you’ve got consistent revenue. You want to scale. You’re thinking about hiring. You’re talking to investors. That’s when it’s time to step out of the I.E. structure and move into an LLC.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "2a389826",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "1fa7fa74",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "This isn’t just a formality. It’s a signal to your clients, your team, and your bank that you’re operating at the next level.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "ce6a2846",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "19a0dbc5",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "That’s where International Company Status comes in.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "93ff8b1c",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "ca2f65e3",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "33a19f06",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "5% Tax on Distributed Profits: The Startup Structure",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              },
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {},
+      "headingData": {
+        "level": 2,
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "11567dca",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c3b8d55d",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Georgia allows LLCs that operate in specific industries, mainly IT and maritime, to register as International Companies. If approved, your business benefits from a special tax regime:",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "73d71c09",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "BULLETED_LIST",
+      "id": "b66ad8be",
+      "nodes": [
+        {
+          "type": "LIST_ITEM",
+          "id": "e3fe79eb",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "d7d30df3",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "textData": {
+                    "text": "5% corporate income tax, only on distributed profits",
+                    "decorations": [
+                      {
+                        "type": "COLOR",
+                        "colorData": {
+                          "background": "transparent",
+                          "foreground": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "style": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "1ac843de",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "64ffa9de",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "textData": {
+                    "text": "0% dividend tax for foreign shareholders",
+                    "decorations": [
+                      {
+                        "type": "COLOR",
+                        "colorData": {
+                          "background": "transparent",
+                          "foreground": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "style": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "96244d3a",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "a75f81df",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "textData": {
+                    "text": "5% flat personal income tax for employees",
+                    "decorations": [
+                      {
+                        "type": "COLOR",
+                        "colorData": {
+                          "background": "transparent",
+                          "foreground": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "style": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "75f7f98c",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "e1490443",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "textData": {
+                    "text": "No property tax on assets used for business activities",
+                    "decorations": [
+                      {
+                        "type": "COLOR",
+                        "colorData": {
+                          "background": "transparent",
+                          "foreground": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "style": {}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "e3f78187",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "1f49dcd5",
+      "nodes": [
+        {
+          "type": "IMAGE",
+          "id": "7eb8ee97",
+          "imageData": {
+            "containerData": {
+              "width": {
+                "size": "CONTENT"
+              },
+              "alignment": "CENTER",
+              "textWrap": true
+            },
+            "image": {
+              "src": {
+                "url": "https://pixeldrain.com/api/file/z8TuEEMf"
+              },
+              "metadata": {
+                "altText": ""
+              }
+            }
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "989721aa",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "0812d1be",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Here’s what that means in practice.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "20ca8dc0",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "3626b697",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "If you make 400,000 GEL in profit but keep it inside the company to reinvest in product development, you pay zero tax.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "231d9cd9",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "0c46238e",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "If you distribute that profit to shareholders, you pay 5% corporate income tax. That’s it. And if those shareholders are non-residents, they don’t pay dividend tax on it. Compared to other countries where dividends can be taxed at 15% or more, this is a serious advantage.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "b442dbea",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "690b9a71",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Now imagine you’re hiring developers or designers inside Georgia. Normally, you’d have to withhold 20% in personal income tax and contribute to pension and social funds. But under International Company Status, salaries are taxed at just 5%. This isn’t a loophole. It’s written into Georgia’s tax code to attract skilled businesses.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "a5c0dbd9",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "68f46de3",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "b8d85a0e",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "How to Qualify",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              },
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {},
+      "headingData": {
+        "level": 2,
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "6e64cb6a",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "bd044338",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "International Company Status isn’t automatic. You need to meet four key criteria:",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "903c690a",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "ORDERED_LIST",
+      "id": "01caf8a4",
+      "nodes": [
+        {
+          "type": "LIST_ITEM",
+          "id": "e26cccbb",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "a866983e",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "textData": {
+                    "text": "You must be registered as a Georgian LLC",
+                    "decorations": [
+                      {
+                        "type": "COLOR",
+                        "colorData": {
+                          "background": "transparent",
+                          "foreground": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "style": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "0f5034d7",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "000a0701",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "textData": {
+                    "text": "You must operate in a qualifying sector (IT services, software, cybersecurity, etc.)",
+                    "decorations": [
+                      {
+                        "type": "COLOR",
+                        "colorData": {
+                          "background": "transparent",
+                          "foreground": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "style": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "d139b5ee",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "df8f4701",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "textData": {
+                    "text": "Your company must show 2 years of activity in the field (either in Georgia or abroad)",
+                    "decorations": [
+                      {
+                        "type": "COLOR",
+                        "colorData": {
+                          "background": "transparent",
+                          "foreground": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "style": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "6b6c30ee",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "739306a2",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "textData": {
+                    "text": "You need real operations in Georgia, an office, a local director, payroll, or business activity",
+                    "decorations": [
+                      {
+                        "type": "COLOR",
+                        "colorData": {
+                          "background": "transparent",
+                          "foreground": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "style": {}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "10ac214b",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "4c17a7bc",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Without that local substance, your application won’t be accepted. Georgia is generous with taxes, but serious about compliance. This is why most founders don’t apply alone.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "0f6d3397",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "503a05e3",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "You’ll need to prepare documents, prove your business activity, translate supporting evidence into Georgian, and submit it correctly. Gegidze handles this for clients, but even if you work with another provider, do not assume the system is plug-and-play. It isn’t.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "bfca8638",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "7c40293b",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "19c13b8e",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "What About Virtual Zone?",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              },
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {},
+      "headingData": {
+        "level": 2,
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "798add09",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "11c33347",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "This is where things get confusing for many founders.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "31ca6fca",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "aebe9f6a",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Virtual Zone Status is a completely separate incentive, also offered by the Georgian government. It’s available to companies that export IT services (like software development) and earn revenue from foreign clients.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "ca98e55f",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "35295ca3",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "If approved, the company pays 0% corporate tax on all foreign-sourced income.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "1837cc06",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "6fd13a42",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Sounds amazing, right? It is. But here’s the catch: Virtual Zone only affects corporate income tax. It doesn’t lower your salary tax. It doesn’t give you 0% dividend tax. And it doesn’t give you investor-ready structure.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "82355aaf",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "cfd64431",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "That’s why many companies hold both statuses.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "cb211055",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "BULLETED_LIST",
+      "id": "16f32311",
+      "nodes": [
+        {
+          "type": "LIST_ITEM",
+          "id": "c97a971b",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "359dee98",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "textData": {
+                    "text": "Virtual Zone eliminates corporate tax on revenue",
+                    "decorations": [
+                      {
+                        "type": "COLOR",
+                        "colorData": {
+                          "background": "transparent",
+                          "foreground": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "style": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "916f7db9",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "4a990b0a",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "textData": {
+                    "text": "International Company reduces tax on salaries and dividends",
+                    "decorations": [
+                      {
+                        "type": "COLOR",
+                        "colorData": {
+                          "background": "transparent",
+                          "foreground": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ],
+              "style": {}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "8326e919",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "8d8ae74c",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "If you're running a real team in Georgia and serving foreign clients, combining both is the smartest move. But it requires precision. You’ll need to structure your revenue properly, set up local payroll systems, and apply for both statuses through different government bodies.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "10375bec",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "54c80818",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Most people can’t do this alone. Misfiled paperwork leads to rejection or delays. And once rejected, reapplying isn’t always easy.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "43d4bcb4",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "7df95b1b",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "8cf6599c",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Side-by-Side: Which Regime Does What?",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              },
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {},
+      "headingData": {
+        "level": 2,
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "b69c42c6",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "TABLE",
+      "id": "d2167179",
+      "nodes": [
+        {
+          "type": "TABLE_ROW",
+          "id": "02ab5f0f",
+          "nodes": [
+            {
+              "type": "TABLE_CELL",
+              "id": "e2409cd2",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "0e2754c2",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "Feature",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            },
+            {
+              "type": "TABLE_CELL",
+              "id": "d0ec12e5",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "f331a03e",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "I.E. (1%)",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            },
+            {
+              "type": "TABLE_CELL",
+              "id": "c7ad5df1",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "25645e9c",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "Intl Company (5%)",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            },
+            {
+              "type": "TABLE_CELL",
+              "id": "b985f1de",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "97e1ef73",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "Virtual Zone (0%)",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            }
+          ]
+        },
+        {
+          "type": "TABLE_ROW",
+          "id": "7ec62c23",
+          "nodes": [
+            {
+              "type": "TABLE_CELL",
+              "id": "456dddfd",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "4165be4f",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "Legal Form",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            },
+            {
+              "type": "TABLE_CELL",
+              "id": "902ee7bd",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "4b155360",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "Individual Entrepreneur",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            },
+            {
+              "type": "TABLE_CELL",
+              "id": "6b04ecbb",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "53dfe4fc",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "LLC",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            },
+            {
+              "type": "TABLE_CELL",
+              "id": "2aa99c06",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "31334a20",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "LLC or JSC",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            }
+          ]
+        },
+        {
+          "type": "TABLE_ROW",
+          "id": "fed9262d",
+          "nodes": [
+            {
+              "type": "TABLE_CELL",
+              "id": "be5add6c",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "5fd2a8a9",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "Tax on Income",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            },
+            {
+              "type": "TABLE_CELL",
+              "id": "3bd3e9d2",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "66e18dff",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "1% on revenue",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            },
+            {
+              "type": "TABLE_CELL",
+              "id": "7440457c",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "c115f311",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "5% on distributed profit",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            },
+            {
+              "type": "TABLE_CELL",
+              "id": "6a70d997",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "b053a5ca",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "0% on foreign revenue",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            }
+          ]
+        },
+        {
+          "type": "TABLE_ROW",
+          "id": "64a5cdad",
+          "nodes": [
+            {
+              "type": "TABLE_CELL",
+              "id": "dd613f85",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "51a30938",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "Tax on Dividends",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            },
+            {
+              "type": "TABLE_CELL",
+              "id": "d92b06f2",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "083f8bff",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "n/a",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            },
+            {
+              "type": "TABLE_CELL",
+              "id": "b7a6c611",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "ff7c1f08",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "0% for foreign owners",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            },
+            {
+              "type": "TABLE_CELL",
+              "id": "76d600f4",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "0872879c",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "5% (or 0% with treaty)",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            }
+          ]
+        },
+        {
+          "type": "TABLE_ROW",
+          "id": "42837121",
+          "nodes": [
+            {
+              "type": "TABLE_CELL",
+              "id": "69b94d92",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "8da899d4",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "Salary Tax",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            },
+            {
+              "type": "TABLE_CELL",
+              "id": "2397caea",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "36bc96c1",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "n/a",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            },
+            {
+              "type": "TABLE_CELL",
+              "id": "0396e232",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "1d97c251",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "5%",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            },
+            {
+              "type": "TABLE_CELL",
+              "id": "a943d5b7",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "2f2d91d1",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "20% unless combined",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            }
+          ]
+        },
+        {
+          "type": "TABLE_ROW",
+          "id": "504c2141",
+          "nodes": [
+            {
+              "type": "TABLE_CELL",
+              "id": "b23f6c26",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "1a41fe75",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "Can Hire Employees?",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            },
+            {
+              "type": "TABLE_CELL",
+              "id": "9d1e765e",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "49a179aa",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "No",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            },
+            {
+              "type": "TABLE_CELL",
+              "id": "d270d1cf",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "755cc27e",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "Yes",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            },
+            {
+              "type": "TABLE_CELL",
+              "id": "3c1820d1",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "82008820",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "Yes",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            }
+          ]
+        },
+        {
+          "type": "TABLE_ROW",
+          "id": "4766864f",
+          "nodes": [
+            {
+              "type": "TABLE_CELL",
+              "id": "e79a6a97",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "fab42570",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "Max Annual Revenue",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            },
+            {
+              "type": "TABLE_CELL",
+              "id": "431b24fe",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "c18fc0d4",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "500,000 GEL cap",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            },
+            {
+              "type": "TABLE_CELL",
+              "id": "ed751f38",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "24e3b7d7",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "No cap",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            },
+            {
+              "type": "TABLE_CELL",
+              "id": "a5450e6d",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "56d90cc7",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "No cap",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            }
+          ]
+        },
+        {
+          "type": "TABLE_ROW",
+          "id": "be6aa4a9",
+          "nodes": [
+            {
+              "type": "TABLE_CELL",
+              "id": "b66b51c7",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "234afcc7",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "Setup Complexity",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            },
+            {
+              "type": "TABLE_CELL",
+              "id": "5c473ba0",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "74c5cc1b",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "Low",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            },
+            {
+              "type": "TABLE_CELL",
+              "id": "3de12f01",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "f309272a",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "Moderate",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            },
+            {
+              "type": "TABLE_CELL",
+              "id": "47768e72",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "29be1c44",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "Moderate",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            }
+          ]
+        },
+        {
+          "type": "TABLE_ROW",
+          "id": "cf37ba2e",
+          "nodes": [
+            {
+              "type": "TABLE_CELL",
+              "id": "d80274a0",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "451ec1e3",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "Banking & Accounting",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            },
+            {
+              "type": "TABLE_CELL",
+              "id": "4e9fcd52",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "172f6526",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "Minimal",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            },
+            {
+              "type": "TABLE_CELL",
+              "id": "93b28768",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "2ee93c07",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "Full compliance required",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            },
+            {
+              "type": "TABLE_CELL",
+              "id": "696a3a2a",
+              "nodes": [
+                {
+                  "type": "PARAGRAPH",
+                  "id": "b282bda1",
+                  "nodes": [
+                    {
+                      "type": "TEXT",
+                      "id": "",
+                      "textData": {
+                        "text": "Full compliance required",
+                        "decorations": [
+                          {
+                            "type": "COLOR",
+                            "colorData": {
+                              "background": "transparent",
+                              "foreground": "rgb(0, 0, 0)"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "style": {}
+                }
+              ],
+              "tableCellData": {}
+            }
+          ]
+        }
+      ],
+      "tableData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "b29e9f0d",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "039b1217",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "4919a068",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "What Real Founders Actually Do",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              },
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {},
+      "headingData": {
+        "level": 2,
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "f8a7eb0f",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "ea207210",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Most start with I.E. and grow into LLC. Here’s how it looks in real life.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "b0dd637b",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "9381cf5b",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Case 1: A freelance UX designer bills €4,000/month from clients in Germany and the UK. She lives in Batumi. Registers as an I.E., pays 1%, and keeps everything simple.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "8a2f0a2f",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "70583f92",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Case 2: A 3-person development agency outgrows the 500,000 GEL cap and wants to hire support staff in Tbilisi. They close the I.E., set up an LLC, and apply for International Company Status. Payroll tax drops to 5%. They reinvest most profits and pay minimal tax.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "6f6702b3",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "91d35770",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Case 3: A SaaS founder is raising funds and wants to issue equity. I.E. is no longer viable. They form an LLC, apply for both International Company and Virtual Zone Status, and set up a local presence with Gegidze’s help. Taxes drop significantly, and they’re fully structured for scale.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "440685a1",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "6564fb57",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "The pattern is always the same: structure follows growth. Georgia rewards founders who take it seriously.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "b590eb00",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "d3247378",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "a4d417a0",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Why You Need Professional Support",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              },
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {},
+      "headingData": {
+        "level": 2,
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c254d652",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "60c0cb70",
+      "nodes": [
+        {
+          "type": "IMAGE",
+          "id": "44289dce",
+          "imageData": {
+            "containerData": {
+              "width": {
+                "size": "CONTENT"
+              },
+              "alignment": "CENTER",
+              "textWrap": true
+            },
+            "image": {
+              "src": {
+                "url": "https://pixeldrain.com/api/file/oMXmbNgs"
+              },
+              "metadata": {
+                "altText": ""
+              }
+            }
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "797a9c25",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "b6920270",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Registering an I.E. sounds easy. It is. Until you make the wrong declaration or skip the VAT registration when you hit the threshold.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "9eac766b",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "e4ae58ae",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Applying for Virtual Zone sounds exciting. It is. Until you realize you filed the wrong business activity code and got rejected.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "752d0151",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "ec2b7fc4",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Setting up an LLC sounds straightforward. It is. Until your bank asks for a document in Georgian, and you don’t know where to get it.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "91f21387",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "fb33513a",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "You can’t automate this process. You need people who know what each authority expects. Professionals who understand how Georgia’s tax code actually works and how to legally position your company to get the benefits you're here for.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "6889a0ca",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "319b6693",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "That’s what Gegidze does. And that’s why so many international founders work with them.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "d828a27c",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "55c65351",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "2b712eae",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Final Word",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              },
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {},
+      "headingData": {
+        "level": 2,
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "5bc51799",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "747818cf",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Georgia gives you options: 1%, 5%, 0%. But the real win isn’t choosing the lowest number. It’s choosing the setup that matches your current business and sets you up for the next chapter.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "425dc254",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "1c197f5f",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "If you want to register your business in Georgia, qualify for Small Business or International Company Status, or reduce your tax on foreign income with Virtual Zone, start with a proper structure. Let professionals guide you through the banking, registration, compliance, and filings.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "90733548",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "96f09031",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Book your free consultation with Gegidze today and learn more about your options. With professional help you’ll spend less and you’ll earn more.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "7b1b8b39",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "f1847a1e",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "4e9c5b35",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Frequently asked questions (FAQ)",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              },
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {},
+      "headingData": {
+        "level": 2,
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "d53ebc82",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "b8d6f134",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "1. How do I register a business in Georgia as a foreigner?",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "You can register an Individual Entrepreneur or LLC in Georgia online or remotely using a legal representative. The process includes name selection, tax ID issuance, business bank account setup, and optional applications for Small Business or International Company Status.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "44f5ee76",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "61b65d37",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "2. What are the benefits of opening a business in Georgia?",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Georgia offers a 1% tax regime for small businesses, 0% corporate tax for Virtual Zone companies, and 5% tax for International Companies. There’s no minimum capital, foreign ownership is allowed, and the tax residency process is clear and favorable for digital entrepreneurs.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "92c1cd5e",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "790b7fd5",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "3. Can I combine Virtual Zone and International Company Status in Georgia?",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Yes. Companies operating in the IT sector can hold both statuses. This combination allows you to pay 0% on foreign-sourced income while also reducing payroll and dividend taxes if you meet the substance and eligibility requirements.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "7ad84b4b",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "d9473ce0",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "4. What taxes do freelancers in Georgia pay under the 1% regime?",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Freelancers registered as Individual Entrepreneurs with Small Business Status pay only 1% of their gross annual turnover, up to 500,000 GEL. There is no additional corporate tax, dividend tax, or VAT unless they exceed certain thresholds.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "b65d49dc",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "f557dd76",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "5. What is the difference between an I.E. and LLC in Georgia?",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "An I.E. is ideal for solo freelancers with simple operations. LLCs are better for businesses that need legal separation, want to hire staff, or plan to grow. Only LLCs are eligible for International Company and Virtual Zone tax statuses in Georgia.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "6b2162cd",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "eb99aee8",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Meta Description",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              },
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {},
+      "headingData": {
+        "level": 3,
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "ef6b8074",
+      "nodes": [],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "9b5dff8e",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "textData": {
+            "text": "Compare Georgia’s 1%, 5%, and 0% tax regimes. Learn how to register a business, lower taxes, and choose between I.E., LLC, and Virtual Zone Status.",
+            "decorations": [
+              {
+                "type": "COLOR",
+                "colorData": {
+                  "background": "transparent",
+                  "foreground": "rgb(0, 0, 0)"
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "style": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "d90acb8b",
+      "nodes": [],
+      "style": {}
+    }
+  ]
+}
